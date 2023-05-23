@@ -1,4 +1,4 @@
-# Debug-Print (In C)
+# Debug-Print (In C/C++)
 
 Print variable's value easily with its name by just one easy command.\
 Sometimes you need to print some variables with their values for debugging purposes. Something like this:\
